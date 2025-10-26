@@ -84,4 +84,4 @@ This document describes entities, attributes, constraints, and indexing for the 
   - `property_id` on `Property` and `Booking`
   - `booking_id` on `Booking` and `Payment`
 
-Notes: Use appropriate relational constraints and indexes in the chosen RDBMS. Adjust data types (e.g., `VARCHAR` length, decimal precision) to match implementation requirements.
+
