@@ -84,4 +84,5 @@ This document describes entities, attributes, constraints, and indexing for the 
   - `property_id` on `Property` and `Booking`
   - `booking_id` on `Booking` and `Payment`
 
-
+## ERD
+![alt text](image.png)
