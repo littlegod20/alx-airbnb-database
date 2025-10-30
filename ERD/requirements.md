@@ -85,4 +85,4 @@ This document describes entities, attributes, constraints, and indexing for the 
   - `booking_id` on `Booking` and `Payment`
 
 ## ERD
-![alt text](image.png)
+![alt text](image-1.png)
