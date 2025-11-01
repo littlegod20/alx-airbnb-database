@@ -9,7 +9,7 @@ SELECT *
 FROM property p
 LEFT JOIN review r
 ON p.property_id = r.property_id
-ORDER BY p.property_name ASC;
+ORDER BY r.created_at DESC NULLS LAST;
 
 --FULL OUTER JOIN
 SELECT * 
