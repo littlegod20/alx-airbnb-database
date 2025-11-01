@@ -4,7 +4,7 @@ WHERE (
   SELECT AVG(rating)
   FROM review r
   WHERE r.property_id = p.property_id
-) > 4
+) > 4.0
 
 
 SELECT *
